@@ -1,0 +1,26 @@
+name: GitHub Actions Demo
+
+on:
+  push:	
+    branches:	
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '17'
+      - run: |
+          npm install
+          npm run build
+        working-directory: ./adwolt
+      - uses: s0/git-publish-subdir-action@develop
+        env:
+          REPO: git@github.com:bhupinder48/bhupinder48.github.io.git
+          BRANCH: adwolt-live
+          FOLDER: ./adwolt/dist
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+          MESSAGE: "Build: ({sha}) {msg}"
