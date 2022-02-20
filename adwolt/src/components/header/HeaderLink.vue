@@ -1,8 +1,8 @@
 <template>
   <li class="nav-item">
     <router-link
-      class="nav-link fs-5 fw-bold text-secondary"
-      :class="{ 'active text-white bg-danger': isActive() }"
+      class="nav-link fs-5 text-secondary"
+      :class="{ 'active text-danger fw-bolder': isActive() }"
       @click="selectLink"
       :to="link"
       >{{ linkText }}</router-link
