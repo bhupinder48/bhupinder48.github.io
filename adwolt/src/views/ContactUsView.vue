@@ -1,14 +1,13 @@
 <template>
   <div class="container">
     <div class="row">
-      <div class="col-md-5">
+      <div class="col-md-">
         <img
           src="../assets/contact-us.jpg"
-          class="img-fluid h-75 float-end"
+          class="img-fluid float-end"
           alt="contact-us-image"
         />
       </div>
-      <div class="col-md-1"></div>
       <div class="col-md-6 contact-us-form">
         <h1 class="text-danger text-left">Get in touch</h1>
         <form>
