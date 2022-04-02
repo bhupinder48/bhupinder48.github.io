@@ -43,7 +43,7 @@ export default {
         { linkText: "About", linkUrl: "/about" },
         { linkText: "Products", linkUrl: "/" },
         { linkText: "Pricing", linkUrl: "/" },
-        { linkText: "Contact Us", linkUrl: "/" },
+        { linkText: "Contact Us", linkUrl: "/contact-us" },
       ],
     };
   },
