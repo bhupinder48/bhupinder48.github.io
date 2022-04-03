@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div class="row">
-      <div class="col-md-">
+      <div class="col-md-6">
         <img
           src="../assets/contact-us.jpg"
           class="img-fluid float-end"

@@ -1,7 +1,7 @@
 <template>
-  <div class="container">
+  <div class="container-fluid">
     <header
-      class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom"
+      class="d-flex flex-wrap justify-content-center py-3 border-bottom-header"
     >
       <a
         href="/"

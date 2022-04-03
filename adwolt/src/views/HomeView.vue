@@ -1,7 +1,5 @@
 <template>
-  <div class="container">
-    <home-component />
-  </div>
+  <home-component />
 </template>
 
 <script>
