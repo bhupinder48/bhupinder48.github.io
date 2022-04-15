@@ -1,5 +1,5 @@
 <template>
-  <div class="container-fluid">
+  <div class="container">
     <header
       class="d-flex flex-wrap justify-content-center py-3 border-bottom-header"
     >
@@ -10,7 +10,6 @@
         <a href="#" class="d-block link-dark text-decoration-none">
           <img src="../../assets/adwolt-brand.png" width="80" height="35" />
         </a>
-        <span class="fs-1 fw-bolder"> WOLT</span>
       </a>
       <ul
         class="nav nav-links"
