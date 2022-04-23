@@ -1,5 +1,5 @@
 <template>
-  <li class="nav-item">
+  <li class="nav-item ms-3">
     <router-link
       class="nav-link fs-5 text-secondary"
       :class="{ 'active text-danger fw-bolder': isActive() }"
