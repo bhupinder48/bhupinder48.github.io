@@ -40,8 +40,8 @@ export default {
       headers: [
         { linkText: "Home", linkUrl: "/" },
         { linkText: "About", linkUrl: "/about" },
-        { linkText: "Products", linkUrl: "/" },
-        { linkText: "Pricing", linkUrl: "/" },
+        // { linkText: "Products", linkUrl: "/" },
+        // { linkText: "Pricing", linkUrl: "/" },
         { linkText: "Contact Us", linkUrl: "/contact-us" },
       ],
     };
