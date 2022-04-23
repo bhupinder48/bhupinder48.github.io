@@ -32,32 +32,30 @@
 
     <div class="px-4 pt-5 my-5 text-center border-bottom">
       <h1 class="display-4 fw-bold">Trusted distributor of</h1>
-      <div class="overflow-hidden" style="max-height: 30vh">
-        <div class="row align-items-center">
-          <div class="col-lg-4">
-            <img
-              src="../assets/kei-logo.jpeg"
-              class="img-fluid border rounded-3 shadow-lg mb-4"
-              alt="Example image"
-              loading="lazy"
-            />
-          </div>
-          <div class="col-lg-4">
-            <img
-              src="../assets/polycab-logo.png"
-              class="img-fluid border rounded-3 shadow-lg mb-4"
-              alt="Example image"
-              loading="lazy"
-            />
-          </div>
-          <div class="col-lg-4">
-            <img
-              src="../assets/goldmedal-logo.svg"
-              class="img-fluid border rounded-3 shadow-lg mb-4"
-              alt="Example image"
-              loading="lazy"
-            />
-          </div>
+      <div class="row align-items-center">
+        <div class="col-lg-4">
+          <img
+            src="../assets/kei-logo.jpeg"
+            class="img-fluid border rounded-3 shadow-lg mb-4"
+            alt="Example image"
+            loading="lazy"
+          />
+        </div>
+        <div class="col-lg-4">
+          <img
+            src="../assets/polycab-logo.png"
+            class="img-fluid border rounded-3 shadow-lg mb-4"
+            alt="Example image"
+            loading="lazy"
+          />
+        </div>
+        <div class="col-lg-4">
+          <img
+            src="../assets/goldmedal-logo.svg"
+            class="img-fluid border rounded-3 shadow-lg mb-4"
+            alt="Example image"
+            loading="lazy"
+          />
         </div>
       </div>
     </div>
