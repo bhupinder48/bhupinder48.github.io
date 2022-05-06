@@ -6,17 +6,17 @@ import ContactUs from "../views/ContactUsView.vue";
 const routes = [
   {
     path: "/",
-    name: "home",
+    name: "Home",
     component: HomeView,
   },
   {
     path: "/about",
-    name: "about",
+    name: "About",
     component: AboutView,
   },
   {
     path: "/contact-us",
-    name: "contact-us",
+    name: "Contact Us",
     component: ContactUs,
   },
 ];

@@ -3,7 +3,6 @@
     <router-link
       class="nav-link fs-5 text-secondary"
       :class="{ 'active text-danger fw-bolder': isActive() }"
-      @click="selectLink"
       :to="link"
       >{{ linkText }}</router-link
     >
@@ -16,9 +15,6 @@ export default {
   methods: {
     isActive() {
       return this.activeComponent === this.linkText;
-    },
-    selectLink() {
-      this.$emit("select-header-link", this.linkText);
     },
   },
 };

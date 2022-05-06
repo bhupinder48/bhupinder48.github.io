@@ -25,7 +25,6 @@
               :link="header.linkUrl"
               :linkText="header.linkText"
               :activeComponent="activeComponent"
-              @select-header-link="changeActiveComponent"
               v-for="header in headers"
               v-bind:key="header.linkText"
             />
@@ -43,9 +42,13 @@ export default {
   components: {
     HeaderLink,
   },
+  computed: {
+    activeComponent: function () {
+      return this.$route.name;
+    },
+  },
   data: function () {
     return {
-      activeComponent: "Home",
       headers: [
         { linkText: "Home", linkUrl: "/" },
         { linkText: "About", linkUrl: "/about" },
@@ -54,11 +57,6 @@ export default {
         { linkText: "Contact Us", linkUrl: "/contact-us" },
       ],
     };
-  },
-  methods: {
-    changeActiveComponent(componentName) {
-      this.activeComponent = componentName;
-    },
   },
 };
 </script>
