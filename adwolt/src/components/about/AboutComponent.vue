@@ -15,7 +15,7 @@
         <h1 class="display-5 fw-bold lh-1 mb-3">
           Leading distributor and manufacturer for your wiring needs
         </h1>
-        <p class="lead fw-bold">
+        <p class="lead">
           Advolt is the manufacturer of the highest quality PVC Wires and
           Cables. Besides high quality and durability, our products are much
           more cost-effective and we provide you superior Fire resistant wires
