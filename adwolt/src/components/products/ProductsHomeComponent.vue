@@ -13,9 +13,8 @@
             <div class="card-body">
               <h5 class="card-title">House wires</h5>
               <p class="card-text">
-                This is a wider card with supporting text below as a natural
-                lead-in to additional content. This content is a little bit
-                longer.
+                Adwolt offers house wires for domestic and commercial purposes.
+                These wires are safe, efficient to use.
               </p>
             </div>
           </div>
@@ -30,8 +29,8 @@
             <div class="card-body">
               <h5 class="card-title">Submersible wires</h5>
               <p class="card-text">
-                This card has supporting text below as a natural lead-in to
-                additional content.
+                Provides flat submersible cables mainly designed to use in
+                submersible pumps in a deep well.
               </p>
             </div>
           </div>
@@ -46,9 +45,8 @@
             <div class="card-body">
               <h5 class="card-title">Multicore wires</h5>
               <p class="card-text">
-                This is a wider card with supporting text below as a natural
-                lead-in to additional content. This card has even longer content
-                than the first to show that equal height action.
+                Multicore wires by Adwolt is a perfect solution to use in
+                houses, workspace or in commercial place.
               </p>
             </div>
           </div>
@@ -63,9 +61,8 @@
             <div class="card-body">
               <h5 class="card-title">Coaxial wires</h5>
               <p class="card-text">
-                This is a wider card with supporting text below as a natural
-                lead-in to additional content. This card has even longer content
-                than the first to show that equal height action.
+                Coaxial cables are copper-based wires to transmit data, video,
+                and voice communications to end-use.
               </p>
             </div>
           </div>
@@ -80,9 +77,8 @@
             <div class="card-body">
               <h5 class="card-title">Service wires</h5>
               <p class="card-text">
-                This is a wider card with supporting text below as a natural
-                lead-in to additional content. This card has even longer content
-                than the first to show that equal height action.
+                We provide service wires which are in huge demand and safer to
+                use for household purposes.
               </p>
             </div>
           </div>
@@ -97,9 +93,8 @@
             <div class="card-body">
               <h5 class="card-title">LAN cable</h5>
               <p class="card-text">
-                This is a wider card with supporting text below as a natural
-                lead-in to additional content. This card has even longer content
-                than the first to show that equal height action.
+                Highely demanded by users due to better LAN cable quality, fire
+                retardant, safe and at reasonable price.
               </p>
             </div>
           </div>
