@@ -1,8 +1,8 @@
 <template>
   <div class="row mt-5">
     <div class="col-md-12">
-      <h1 class="text-danger">Products</h1>
-      <div class="row row-cols-1 row-cols-md-3 g-4">
+      <h1 class="text-danger fw-bold">Products</h1>
+      <div class="row row-cols-1 row-cols-md-3 g-4 mt-4">
         <div class="col">
           <div class="card h-100">
             <img
