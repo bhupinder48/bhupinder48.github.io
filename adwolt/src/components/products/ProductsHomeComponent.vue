@@ -7,7 +7,7 @@
           <div class="card h-100">
             <img
               src="../../assets/adwolt-housing-wires.jpeg"
-              class="card-img-top"
+              class="card-img-top img-thumbnail p-4"
               alt="../../assets/adwolt-housing-wires.jpeg"
             />
             <div class="card-body">
@@ -24,7 +24,7 @@
           <div class="card h-100">
             <img
               src="../../assets/adwolt-submersible-cables.png"
-              class="card-img-top"
+              class="card-img-top img-thumbnail p-4"
               alt=""
             />
             <div class="card-body">
@@ -40,7 +40,7 @@
           <div class="card h-100">
             <img
               src="../../assets/adwolt-power-cable.jpeg"
-              class="card-img-top"
+              class="card-img-top img-thumbnail p-4"
               alt=""
             />
             <div class="card-body">
@@ -57,7 +57,7 @@
           <div class="card h-100">
             <img
               src="../../assets/adwolt-coaxial-cable-large.jpeg"
-              class="card-img-top"
+              class="card-img-top img-thumbnail p-4"
               alt=""
             />
             <div class="card-body">
@@ -74,7 +74,7 @@
           <div class="card h-100">
             <img
               src="../../assets/adwolt-service-wire.jpeg"
-              class="card-img-top"
+              class="card-img-top img-thumbnail p-4"
               alt=""
             />
             <div class="card-body">
@@ -91,7 +91,7 @@
           <div class="card h-100">
             <img
               src="../../assets/LAN-cable.jpeg"
-              class="card-img-top"
+              class="card-img-top img-thumbnail p-4"
               alt=""
             />
             <div class="card-body">
