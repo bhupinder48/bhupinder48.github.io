@@ -9,7 +9,7 @@
         aria-current="true"
         aria-label="Slide 1"
       ></button>
-      <button
+      <!-- <button
         type="button"
         data-bs-target="#carouselComponent"
         data-bs-slide-to="1"
@@ -22,7 +22,7 @@
         data-bs-slide-to="2"
         aria-current="true"
         aria-label="Slide 3"
-      ></button>
+      ></button> -->
     </div>
     <div class="carousel-inner">
       <div class="carousel-item active">
@@ -32,7 +32,7 @@
           alt="../../assets/carousel-1.png"
         />
       </div>
-      <div class="carousel-item">
+      <!-- <div class="carousel-item">
         <img
           src="../../assets/carousel-2.png"
           class="d-block w-100"
@@ -47,7 +47,7 @@
           style="height: 502px"
           alt="../../assets/carousel-3.png"
         />
-      </div>
+      </div> -->
     </div>
     <button
       class="carousel-control-prev"
