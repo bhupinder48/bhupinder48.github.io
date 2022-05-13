@@ -16,7 +16,7 @@
           Leading distributor and manufacturer for your wiring needs
         </h1>
         <p class="lead">
-          Advolt is the manufacturer of the highest quality PVC Wires and
+          Adwolt is the manufacturer of the highest quality PVC Wires and
           Cables. Besides high quality and durability, our products are much
           more cost-effective and we provide you superior Fire resistant wires
           for extra safety. Our Eco friendly wires saves electricity and cuts
